@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "983833009214",
+    "firebase_url": "https://flash-chat-26753.firebaseio.com",
+    "project_id": "flash-chat-26753",
+    "storage_bucket": "flash-chat-26753.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983833009214:android:6a489f72d075f180",
+        "android_client_info": {
+          "package_name": "co.lino.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983833009214-75igli2l0j6n3h4r97fug4cq4crm5nt4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwD6PdGBHCjE4vkmjFS9cUP58UNqPItag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "983833009214-75igli2l0j6n3h4r97fug4cq4crm5nt4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
